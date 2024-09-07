@@ -1,1 +1,1 @@
-# mambo
+![mambo](assets/mambo-logo.svg)
